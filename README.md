@@ -13,4 +13,6 @@ This assessment consists of :
                            > Sub Query is also shown in the doc.
                            
 
-The attached document is of MySQL; you must install MySQL to view it.
+The attached document is of MySQL; you must install MySQL to view it, if not please view the notepad-copy of the assessment.
+
+I have also attached the pdf document of the questions if you require it for practice.
